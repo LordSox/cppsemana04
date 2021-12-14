@@ -1,3 +1,20 @@
 {
-  "files": {}
+  "files": {
+    "bash.sh": [
+      {
+        "id": "43d2c245-3281-4ee3-8183-727e8310e71e",
+        "line": 2,
+        "version": 456,
+        "index": 12
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "16a0304b-4bb7-4b79-916e-11ac3c8a88e3",
+        "line": 20,
+        "version": 460,
+        "index": 554
+      }
+    ]
+  }
 }

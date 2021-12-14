@@ -14,6 +14,6 @@ protected:
   double xmin,xmax;
   double h;
 };
-#endif /* _SIMPLEDATAGENERATOR_H_ */
+#endif /* _SIMPLEDATAGENERATOR_H_ ./m*/
 
 
